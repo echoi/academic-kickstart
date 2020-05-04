@@ -11,8 +11,8 @@ date: ""
 external_link: ""
 
 image:
-  file: "along-axis-faulting-variation-model.PNG"
-  caption: Detailed comparison of fault geometry before and after the formation of a higher angle normal fault at one end of a ridge axis. (left)The distribution of viscosity from 10$^{18}$ Pa$\cdot$s (red) to 10$^{22}$ Pa$\cdot$s (yellow) and the blue-colored isosurface for 5% second invariant of deviatoric plastic strain. The outline of the top surface and the locations of the cross-sections are also shown. (right) Drawings of interpreted fault geometry on the cross-sections at the magma-poor ("Low M") and the magma-rich ("High M") end.
+  #file: "along-axis-faulting-variation-model.PNG"
+  caption: Detailed comparison of fault geometry before and after the formation of a higher angle normal fault at the magma-rich ("High M") end of a ridge segment while a large offset normal fault forming at the magma-poor ("Low M") end.
   focal_point: Smart
 
 links: ""
