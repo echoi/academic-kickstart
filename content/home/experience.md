@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ig.utexas.edu"
   advisor = "Luc L. Lavier"
   location = "Austin, TX"
-  date_start = "2012-1-1"
+  date_start = "2012-01-01"
   date_end = "2012-12-31"
   description = ""
 
