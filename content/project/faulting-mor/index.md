@@ -33,3 +33,7 @@ url_video: ""
 # slides: example
 slides: ""
 ---
+The main goal of this project is to establish the mechanism by which magmatic processes that are variable along slowspreading
+ridges determine faulting styles that are also variable along the ridge. The project also aims to investigate the
+sensitivity of the mechanism to other important factors including fault lubrication due to rock alteration and extrusion and
+underplating of magma.
