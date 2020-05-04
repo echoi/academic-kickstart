@@ -14,8 +14,14 @@ role: Associate Professor of Geophysics
 
 # Organizations/Affiliations
 organizations:
-- name: Center for Earthquake Research and Information, The University of Memphis
+- name: Institutional profile
+  url: "https://www.memphis.edu/ceri/people/faculty/eunseo-choi.php"
+- name: Geodynamics Research Group
+  url: "https://www.memphis.edu/ceri/research/geodynamics.php"
+- name: Center for Earthquake Research and Information
   url: "https://memphis.edu/ceri/"
+- name: The University of Memphis
+  url: "https://memphis.edu/"  
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include long- and short-term tectonic modeling and seismotectonics.
@@ -54,9 +60,9 @@ social:
   link: https://github.com/echoi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/CV_Choi.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
