@@ -1,20 +1,35 @@
 ---
-title: Faulting at Mid-Ocean Ridge
+title: 'Faulting at Mid-Ocean Ridge'
+subtitle: 'How faulting styles changes along ridge axis'
 summary: Aims to understand how faulting styles change in time and along mid-ocean ridge axis using numerical modeling. 
+authors:
+- admin
 tags:
 - Faulting
 - Mid-Ocean Ridge
 - Oceanic Core Complex
+categories:
+- research
+- long-term tectonic modeling
+
 date: ""
+lastmod: "2020-05-05"
+featured: false
+draft: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  #file: "along-axis-faulting-variation-model.PNG"
-  caption: Detailed comparison of fault geometry before and after the formation of a higher angle normal fault at the magma-rich ("High M") end of a ridge segment while a large offset normal fault forming at the magma-poor ("Low M") end.
-  focal_point: Smart
-
+  placement: 2
+  caption: Detailed comparison of fault geometry before and after the formation of a higher angle normal fault at the magma-rich ("High M") end of a ridge segment while a large offset normal fault forming at the magma-poor ("Low M") end. For more, see [(Tian and Choi, EPSL, 2017)](https://dx.doi.org/10.1016/j.epsl.2016.10.033)
+  focal_point: ""
+  preview_only: false
+  
 links: ""
 #- icon: twitter
 #  icon_pack: fab
