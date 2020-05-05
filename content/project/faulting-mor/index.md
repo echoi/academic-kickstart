@@ -49,7 +49,6 @@ url_video: ""
 slides: ""
 ---
 
-The main goal of this project is to establish the mechanism by which magmatic processes that are variable along slowspreading
-ridges determine faulting styles that are also variable along the ridge. The project also aims to investigate the
-sensitivity of the mechanism to other important factors including fault lubrication due to rock alteration and extrusion and
-underplating of magma. To see numerical models in action, please go to [the project's Figshare page](https://doi.org/10.6084/m9.figshare.4083219.v1).
+The main goal of this project is to understand how magmatic processes at the spreading center of mid-ocean ridge can determine 
+faulting styles that are variable along the ridge axis. A novel aspect of the project is to include explicitly the along-axis variability in magmatic activity. To see some numerical models in action, please go to [the project's Figshare page](https://doi.org/10.6084/m9.figshare.4083219.v1). We are trying to extend spatial and temporal scales of these models to explore a longer portion of oceanic lithospehre's lifespan, from birth at mid-ocean ridge to subduction.
+
