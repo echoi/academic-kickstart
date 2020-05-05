@@ -10,13 +10,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="321.73334mm"
-   height="139.36133mm"
-   viewBox="0 0 160.86667 69.680663"
+   width="643.46667mm"
+   height="278.72266mm"
+   viewBox="0 0 321.73334 139.36133"
    version="1.1"
    id="svg1487"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="featured.svg">
+   sodipodi:docname="featured.svg"
+   inkscape:export-filename="featured.png"
+   inkscape:export-xdpi="47.369999"
+   inkscape:export-ydpi="47.369999">
   <defs
      id="defs1481" />
   <sodipodi:namedview
@@ -28,7 +31,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
      inkscape:cx="640.57146"
-     inkscape:cy="43.360012"
+     inkscape:cy="570.07998"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
