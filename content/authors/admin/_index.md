@@ -49,15 +49,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: youtube
   icon_pack: fab
-  link: https://twitter.com/eunseochoi
+  link: https://www.youtube.com/channel/UCmMzRY-g6CemnSVVZvEILJw
+- icon: slack
+  icon_pack: fab
+  link: https://cerigeodyn.slack.com
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/echoi
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/eunseochoi  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
