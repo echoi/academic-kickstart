@@ -30,6 +30,7 @@ external_link: ""
 image:
   placement: 2
   caption: One study area includes the New Madrid Seismic Zone, the most active intraplate seismic zone in the U.S. A seismic tomgography model for the region is converted to temperature, viscosity and density, which are input to a numerical model constructed with an open-source code, PyLith.
+  width: 800
   focal_point: ""
   preview_only: false
   
