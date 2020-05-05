@@ -29,7 +29,7 @@ external_link: ""
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: One study area includes the New Madrid Seismic Zone, the most active intraplate seismic zone in the U.S. A seismic tomgography model for the region is converted to temperature, viscosity and density, which are input to a numerical model constructed with an open-source code, PyLith.
+  caption: One study area includes the New Madrid Seismic Zone in the Central U.S.
   focal_point: ""
   preview_only: false
   
