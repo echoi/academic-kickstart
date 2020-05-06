@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Geophysical Research Letters*"
-url_pdf: "http://www.agu.org/pubs/crossref/2010/2010GL043681.shtml"
+url_pdf: "/files/Choi, Buck - 2010 - Geophysical Research Letters - Constraints on shallow mantle viscosity from morphology and deformation of fast-sprea.pdf"
 doi: "10.1029/2010GL043681"
 ---
 
