@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Tectonics*"
-url_pdf: "http://www.agu.org/pubs/crossref/pip/2011TC002943.shtml"
+url_pdf: "/files/Choi et al. - 2011 - Tectonics - One-sided transform basins and inverted curtains Implications for releasing bends along strike-slip fau.pdf"
 doi: "10.1029/2011TC002943"
 ---
 
