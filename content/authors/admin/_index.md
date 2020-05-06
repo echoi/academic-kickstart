@@ -14,10 +14,6 @@ role: Associate Professor of Geophysics
 
 # Organizations/Affiliations
 organizations:
-- name: Institutional profile
-  url: "https://www.memphis.edu/ceri/people/faculty/eunseo-choi.php"
-- name: Geodynamics Research Group
-  url: "https://www.memphis.edu/ceri/research/geodynamics.php"
 - name: Center for Earthquake Research and Information
   url: "https://memphis.edu/ceri/"
 - name: The University of Memphis
@@ -49,6 +45,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: address-card
+  icon_pack: fas
+  link: https://www.memphis.edu/ceri/people/faculty/eunseo-choi.php
+- icon: users
+  icon_pack: fas
+  link: https://www.memphis.edu/ceri/research/geodynamics.php
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCmMzRY-g6CemnSVVZvEILJw
