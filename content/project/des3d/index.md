@@ -1,5 +1,5 @@
 ---
-title: 'Improving performance and functionality of DES3D'
+title: 'Geodynamic code development'
 #subtitle: ''
 summary: Aims to improve DES3D (Dynamic Earth Solver in 3D), an open-source geodynamic modeling code by extending the code's functionality and accelerating its performance.
 authors:
@@ -57,6 +57,7 @@ DES3D has been enabled to run on NVIDIA GPUs. Kernel functions for the main rout
 {{< figure src="/img/DES3DFlowChart.png" title="How DES3D works when using GPU" >}}
 When run on GPU, a three-dimensional model for core complex formation showed speedup of 40-60 relative to the performance on a 16-thread CPU. The speedup varies according to the problem size, which tends to increase over the course due to mesh refinement.
 {{< figure src="/img/GPUacceleration.png" title="Core complex model and performance on GPU relative to CPU" >}}
+[This video](https://youtu.be/zr-4HIg7_14) shows the code in action.
 
 To extend DES3D's functionality, we are focusing on merging the exploratory work on implementing the rate-and-state fricgtion law by [Tong and Lavier (Nature Comm., 2018)](https://dx.doi.org/10.1038/s41467-018-06390-z). With this new friction law, we can better model an entire earthquake cycle as well as the consequences of its numerous repetition.
 {{< figure src="/img/EqCycle.png" title="Earthquake cycles modeled with a rate-and-friction law implemented in DES3D" >}}
