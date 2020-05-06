@@ -7,7 +7,8 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Journal of Glaciology*"
-url_pdf: "http://www.igsoc.org/journal/59/216/j12J210.html"
+url_pdf: "/files/Logan et al. - 2013 - Journal of Glaciology - A novel method for predicting fracture in floating ice.pdf
+"
 doi: "10.3189/2013JoG12J210"
 ---
 
