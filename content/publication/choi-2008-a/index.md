@@ -8,7 +8,7 @@ abstract: ""
 featured: false
 publication: "*Physics of the Earth and Planetary Interiors*"
 tags: ["mid-ocean ridge propagation", "ridge tip interaction"]
-url_pdf: "http://linkinghub.elsevier.com/retrieve/pii/S0031920108002288"
+url_pdf: "/files/Choi, Laiver, Gurnis - 2008 - Phys. Earth Planet. Int. - Thermomechanics of mid-ocean ridge segmentation.pdf"
 doi: "10.1016/j.pepi.2008.08.010"
 ---
 
