@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Earth and Planetary Science Letters*"
-url_pdf: "http://linkinghub.elsevier.com/retrieve/pii/S0012821X16305908"
+url_pdf: "/files/Tian, Choi - 2017 - Earth and Planetary Science Letters - Effects of axially variable diking rates on faulting at slow spreading mid-oce.pdf"
 doi: "10.1016/j.epsl.2016.10.033"
 ---
 

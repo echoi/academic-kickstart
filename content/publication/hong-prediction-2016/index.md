@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Scientific Reports*"
-url_pdf: "http://www.nature.com/articles/srep21477"
+url_pdf: "/files/Hong et al. - 2016 - Scientific Reports - Prediction of ground motion and dynamic stress change in Baekdusan (Changbaishan) volcano caus.pdf"
 doi: "10.1038/srep21477"
 ---
 
