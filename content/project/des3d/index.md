@@ -51,7 +51,7 @@ url_video: ""
 slides: ""
 ---
 
-The main goal of this project is to improve [DES3D (Dynamic Earth Solver in 3D)](https://github.com/tan2/dynearthsol3d), an open-source geodynamic modeling code. in terms of the types of physical processes it can model and the speed 
+The main goal of this project is to improve [DES3D (Dynamic Earth Solver in 3D)](https://github.com/tan2/dynearthsol), an open-source geodynamic modeling code. in terms of the types of physical processes it can model and the speed 
 
 ## Performance
 DES3D has been enabled to run on NVIDIA GPUs. Kernel functions for the main routines have been written in CUDA. The overall parallelization is illustrated in the figure below.
