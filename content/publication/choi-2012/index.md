@@ -8,7 +8,8 @@ abstract: ""
 featured: false
 publication: "*Journal of Geophysical Research*"
 tags: ["core complex", "fault strength", "large-offset normal fault", "rafted blocks", "rider blocks"]
-url_pdf: "http://www.agu.org/pubs/crossref/2012/2011JB008741.shtml"
+url_pdf: "/files/Choi, Buck - 2012 - Journal of Geophysical Research - Constraints on the strength of faults from the geometry of rider blocks in contine.pdf
+"
 doi: "10.1029/2011JB008741"
 ---
 
