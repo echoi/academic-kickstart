@@ -6,7 +6,7 @@ authors: ["Eun-seo Choi"]
 publication_types: ["7"]
 abstract: ""
 featured: false
-publication: ""
+publication: "Ph.D. Dissertation"
 url_pdf: "http://resolver.caltech.edu/CaltechETD:etd-09212008-122525"
 ---
 
