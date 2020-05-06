@@ -25,7 +25,7 @@ external_link: ""
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  placement: 2
+  placement: 1
   caption: Detailed comparison of fault geometry before and after the formation of a higher angle normal fault at the magma-rich ("High M") end of a ridge segment while a large offset normal fault forming at the magma-poor ("Low M") end. For more, see [(Tian and Choi, EPSL, 2017)](https://dx.doi.org/10.1016/j.epsl.2016.10.033)
   focal_point: ""
   preview_only: false
