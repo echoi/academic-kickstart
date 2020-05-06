@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Tectonophysics*"
-url_pdf: "http://linkinghub.elsevier.com/retrieve/pii/S0040195115003571"
+url_pdf: "/files/Choi, Petersen - 2015 - Tectonophysics - Making Coulomb angle-oriented shear bands in numerical tectonic models(2).pdf"
 doi: "10.1016/j.tecto.2015.06.026"
 ---
 
