@@ -27,7 +27,7 @@ external_link: ""
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  placement: 2
+  placement: 1
   caption: Three-dimensional model for core complex formation created with DES3D. Accelerated on NVidia V100 graphics card.
   focal_point: ""
   preview_only: false
