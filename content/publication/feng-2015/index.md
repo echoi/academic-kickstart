@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Journal of Structural Geology*"
-url_pdf: "http://dx.doi.org/10.1016/j.jsg.2015.03.002"
+url_pdf: "/files/Feng, Bartholomew, Choi - 2015 - Journal of Structural Geology - Spatial arrangement of décollements as a control on the development of.pdf"
 doi: "10.1016/j.jsg.2015.03.002"
 ---
 
