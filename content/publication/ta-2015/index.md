@@ -8,7 +8,7 @@ abstract: ""
 featured: false
 publication: "*Computers & Geosciences*"
 tags: ["computational tectonic modeling", "Computational Tectonic Modeling", "GPGPU", "heterogeneous computing", "Heterogeneous computing", "long-term lithospheric deformation", "Long-term lithospheric deformation", "Parallel computing"]
-url_pdf: "http://linkinghub.elsevier.com/retrieve/pii/S0098300415000527"
+url_pdf: "/files/Ta et al. - 2014 - Comput. Geosci. - Accelerating DynEarthSol3D on Tightly Coupled CPU-GPU Heterogeneous Processors.pdf"
 doi: "10.1016/j.cageo.2015.03.003"
 ---
 
