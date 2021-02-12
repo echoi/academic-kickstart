@@ -78,8 +78,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigators 
+
 ---
 
 Eunseo Choi is an associate professor of computational geodynamics at Center for Earthquake Research and Information (CERI) of The University of Memphis, Memphis, Tennessee, US. His research interests include long-term deformations in continental and oceanic lithosphere, seismotectonics, coupling of tectonic and surface processes and high-performance computing. He leads CERI's Geodynamics Research Group collaborating with colleagues in seismology and geology.
